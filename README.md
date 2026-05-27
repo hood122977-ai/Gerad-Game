@@ -1,2 +1,4 @@
 # Gerad-Game
 제라드 플렛포머 게임 장애물을 피해서 목표 지점으로 가면 클리어
+
+영상: https://youtu.be/2CYDfCo_4hE?si=9CAqNx2OX44zMK4r
